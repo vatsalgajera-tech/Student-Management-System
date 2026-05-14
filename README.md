@@ -59,7 +59,9 @@ This project demonstrates practical experience with:
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,bootstrap,git,github,vscode" />
+  <marquee behavior="scroll" direction="left">
+    <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,bootstrap,git,github,vscode" />
+  </marquee>
 </p>
 
 ---
