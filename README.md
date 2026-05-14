@@ -10,9 +10,6 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,bootstrap,git,github,vscode" />
-</p>
-<p align="center">
   A Student Management System built with PHP and MySQL for managing student registrations, courses, subjects, and administrative operations.
 </p>
 
